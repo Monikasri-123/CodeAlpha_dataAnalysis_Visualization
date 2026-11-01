@@ -1,0 +1,16 @@
+student_id,gender,study_hours,attendance,marks
+1,Female,2,75,55
+2,Male,4,85,70
+3,Female,5,90,82
+4,Male,1,60,40
+5,Female,6,95,92
+6,Male,3,80,65
+7,Female,4,88,78
+8,Male,2,70,50
+9,Female,7,98,96
+10,Male,5,92,85
+11,Female,3,82,68
+12,Male,6,90,88
+13,Female,1,65,42
+14,Male,4,86,75
+15,Female,5,93,87
